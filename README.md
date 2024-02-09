@@ -10,7 +10,11 @@ This is django web application that allow us to file upload in AWS s3 bucket.
 1. Clone the repository on your local machin with the commnd 
 
     ```
-    git url
+    git clone https://github.com/rohitPtechdev21/file_upload_task
+   
+   and checkout to master branch for the latest code
+   
+   git checkout master
    ```
    
 2. Now move to the directory.
